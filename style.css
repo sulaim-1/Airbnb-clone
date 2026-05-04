@@ -42,3 +42,148 @@ nav {
     color: white;
     border-radius: 100%;
 }
+
+.first-row-img{
+    display: flex;
+    flex-direction: row;
+}
+
+.v {
+    margin-top: 29px;
+    margin-left: 35px;
+    margin-bottom: 8px;
+    font-family: fantasy;
+}
+
+ .one-img .fst{
+    height: 150px;
+    width: 170px;
+    border-radius: 20px;
+    margin-left: 35px;
+    margin-top: 10px;
+}
+
+.onetxt{
+    margin-left: 40px;
+    font-size: 13px;
+}
+
+.onetxtp{
+    margin-left: 40px;
+    font-size: 9px;
+    color: dimgray;
+}
+
+.two-img .snd{
+    height: 150px;
+    width: 170px;
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.twotxt{
+    margin-left: 15px;
+    font-size: 13px;
+}
+
+.twotxtp{
+    margin-left: 15px;
+    font-size: 9px;
+    color: dimgray;
+}
+
+.three-img .thd{
+     height: 150px;
+    width: 170px;
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.threetxt{
+    margin-left: 15px;
+    font-size: 13px;
+}
+
+.threetxtp{
+     margin-left: 15px;
+    font-size: 9px;
+    color: dimgray;
+}
+
+.four-img .frt{
+    height: 150px;
+    width: 170px;
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.fourtxt{
+    margin-left: 15px;
+    font-size: 13px;
+}
+
+.fourtxtp{
+     margin-left: 15px;
+    font-size: 9px;
+    color: dimgray;
+}
+
+.five-img .fth{
+    height: 150px;
+    width: 170px;
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.fivetxt{
+    margin-left: 15px;
+    font-size: 13px;
+}
+
+.fivetxtp{
+    margin-left: 15px;
+    font-size: 9px;
+    color: dimgray;
+}
+
+.six-img .six{
+    height: 150px;
+    width: 170px;
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.sixtxt{
+    margin-left: 15px;
+    font-size: 13px;
+}
+
+.sixtxtp{
+    margin-left: 15px;
+    font-size: 9px;
+    color: dimgray;
+}
+
+.seven-img .svn{
+    height: 150px;
+    width: 170px;
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.seventxt{
+    margin-left: 15px;
+    font-size: 13px;
+}
+
+.seventxtp{
+    margin-left: 15px;
+    font-size: 9px;
+    color: dimgray;
+}
